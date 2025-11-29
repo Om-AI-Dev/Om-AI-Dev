@@ -1,16 +1,18 @@
-## Hi there 👋
+### Hi there! I'm Om Bane. 👋
 
-<!--
-**Om-AI-Dev/Om-AI-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Final Year **BSc IT Student** passionate about **Artificial Intelligence & Machine Learning**.
+I am currently starting my journey in tech, learning Python and Data Science from scratch.
 
-Here are some ideas to get you started:
+### 🚀 My Tech Stack
+| Technologies I am Learning |
+| **Languages** | Python 🐍 (Currently Learning) |
+| **Data Basics** | SQL, Excel |
+| **Tools** | VS Code, Git, GitHub |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ What I'm Working On
+🔭 **Focus:** Mastering Python syntax and basic programming logic.
+🌱 **Goal:** To build my first Data Science project within 4 weeks.
+💼 **Looking for:** Guidance, mentorship, and beginner-friendly internships.
+
+### 📫 Connect With Me
+**Email:** ombane.ai1@gmail.com
